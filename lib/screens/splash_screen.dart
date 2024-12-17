@@ -34,7 +34,6 @@ class _SplashScreenState extends State<SplashScreen>
               ),
             ),
           ),
-          // Removed the text from the Column widget
           Column(
             mainAxisAlignment: MainAxisAlignment.end,
             crossAxisAlignment: CrossAxisAlignment.center,
